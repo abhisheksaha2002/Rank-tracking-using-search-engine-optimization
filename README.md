@@ -6,9 +6,9 @@ You can see another SEO script in action here --> <a href="https://www.kwrds.ai/
 
 <a href="https://bmc.link/sundios" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-Are you on a tight budget and unable to purchase an enterprise rank tracker? Well, today is your lucky day. With this Python script, you can check your rankings and your competitors' rankings on both mobile and desktop in just a few seconds.
 
-**Update**: The script has been updated to remove Robobrowser and use Beautiful Soup. I've also added a competitor check feature, and now it's easier to run. I will make a fix to include a keyword file in the future, but for now, the script is working again and includes the competitors' feature.
+Looking for a cost-effective solution to monitor your website's search engine rankings and compare them with your competitors? This Python script offers a convenient way to track rankings for both mobile and desktop platforms. 
+The script has been updated to use Beautiful Soup for web scraping and now includes a feature to compare your rankings with up to four competitors. An enhancement to include a keyword file is planned, but currently, the script is functional and incorporates the competitor comparison feature
 
 **Update**
 
