@@ -1,35 +1,14 @@
 
-# Google Keyword Ranking Check with Python 
-
-You can see another SEO script in action here --> <a href="https://www.kwrds.ai/" rel="follow">[https://www.kwrds.ai/](https://www.kwrds.ai/)</a>
 
 
-<a href="https://bmc.link/sundios" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 Looking for a cost-effective solution to monitor your website's search engine rankings and compare them with your competitors? This Python script offers a convenient way to track rankings for both mobile and desktop platforms. 
 The script has been updated to use Beautiful Soup for web scraping and now includes a feature to compare your rankings with up to four competitors. An enhancement to include a keyword file is planned, but currently, the script is functional and incorporates the competitor comparison feature
 
-**Update**
 
-## Table of Contents 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing & Questions](#contributing-and-questions)
 
----
-
-## Installation
-
-To use this script, you need to install its dependencies. You can do this by running the following command in your terminal:
-
-```shell
-pip install -r requirements.txt
-```
-
-Once all the dependencies are installed, you can start using the script immediately.
 
 ## Usage
 
@@ -73,16 +52,6 @@ For example:
 | running shoes | 19   | https://www.reebok.com/c/200000012/men-running-shoes | 09-01-2024 | Competitor  |
 | running shoes | 8    | https://www.hoka.com/en/us/                      | 09-01-2024 | Competitor  |
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sundios/Google-rank-tracker&type=Date)](https://star-history.com/#sundios/Google-rank-tracker&Date)
-
-
-## Contributing and Questions
-
-If you want to contribute or fix anything, please do so. 
-
-If you have any questions or need help setting this up, please open an issue, and will try to help.
 
 
 
